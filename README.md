@@ -1,2 +1,2 @@
-   Repositorio de prácticas del módulo de Desarrollo de Aplicaciones Web.
-   Autor: José Luis
+Repositorio de prácticas del módulo de Desarrollo de Aplicaciones Web A.
+Autor: José Luis
